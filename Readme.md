@@ -11,7 +11,7 @@ This repository is dedicated to learning and implementing various Data Structure
 
 - `/data_structures`: Implementation of various data structures
 - `/algorithms`: Implementation of different algorithms
-- `/problems`: Solutions to DSA problems from various platforms
+- `/problems`: Solutions to DSA problems
 - `/notes`: Markdown files containing explanations and theory
 
 ## Learning Objectives
