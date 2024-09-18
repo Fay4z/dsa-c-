@@ -46,7 +46,7 @@ using namespace std;
 //     return -1;
 // }
 
-// Better Approach
+// Better Approach -> using hashing
 
 // int missingNumber(int arr[], int n)
 // {
@@ -68,7 +68,7 @@ using namespace std;
 //     return -1;
 // }
 
-// Optimal Approach 1: using sum
+// Optimal Approach 1 -> using sum
 
 // int missingNumber(int arr[], int n)
 // {
@@ -83,7 +83,7 @@ using namespace std;
 //     return (sum - res);
 // }
 
-// Optimal Approach 2: using XOR
+// Optimal Approach 2 -> using XOR
 
 int missingNumber(int arr[], int n)
 {
