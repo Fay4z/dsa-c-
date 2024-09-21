@@ -5,7 +5,7 @@ This repository is dedicated to learning and implementing various Data Structure
 ## Tech Stack
 
 - **Programming Language:** C, C++
-- **Version Control:** Git
+- **Version Control:** Git, Github
 
 ## Repository Structure
 
