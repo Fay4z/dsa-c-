@@ -1,5 +1,6 @@
 {
-    "files.associations": {
-        "random": "cpp"
-    }
+  "files.associations": {
+    "random": "cpp",
+    "ostream": "cpp"
+  }
 }
