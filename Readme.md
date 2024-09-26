@@ -1,6 +1,6 @@
 # Data Structures and Algorithms Learning Repository
 
-This repository is dedicated to learning and implementing various Data Structures and Algorithms (DSA) concepts. It serves as a personal learning journey and a resource for others interested in DSA.
+This repository is dedicated to learning and implementing various Data Structures and Algorithms (DSA) concepts. This repository also serves as a personal learning journey and a resource for others interested in DSA.
 
 ## Tech Stack
 
