@@ -32,7 +32,7 @@ int main()
 {
     int arr[] = {1, 2, 3, 4, 5, 6};
     int arrSize = sizeof(arr) / sizeof(arr[0]);
-    int x = 5;
+    int x = 4;
 
     int res = loweBoundFunction(arr, arrSize, x);
     cout << res;
